@@ -1,12 +1,3 @@
-## Olá, eu sou o Eric 👋
-### Entre em contato:
-
-[<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
-
-### Linguagens e Ferramentas
-
 ## Hi there, I´m Eric 👋
 ### Connect with me:
 
