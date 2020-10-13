@@ -11,7 +11,7 @@
 
 ![marcioeric's github stats](https://github-readme-stats.vercel.app/api?username=marcioeric&show_icons=true&count_private=true)
 
-[linkedin]: https://www.linkedin.com/in/marcio-e-b73a02118
+[linkedin]: https://www.linkedin.com/in/marcioeric/
 
 <!--
 **marcioeric/marcioeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
