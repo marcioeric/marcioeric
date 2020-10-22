@@ -9,6 +9,11 @@
 <br/>
 
 #### Languages and Tools:
+[<img align="center" alt="chsharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][linkedin]
+[<img align="center" alt="cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][linkedin]
+[<img align="center" alt="git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][linkedin]
+[<img align="center" alt="unity" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][linkedin]
+[<img align="center" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linkedin]
 
 <br />
 
