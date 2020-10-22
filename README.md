@@ -6,8 +6,6 @@
 [<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
-<br/>
-
 #### Languages and Tools:
 [<img align="center" alt="chsharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][linkedin]
 [<img align="center" alt="cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][linkedin]
