@@ -1,9 +1,7 @@
-<h1 align="center"> 
-	✅ Welcome to my GitHub 🚀
-</h1>
-
 <div align="center"> 
 
+<h1>✅ Welcome to my GitHub 🚀</h1>
+	
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcioeric/) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ericnicolau) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://marcioeric.itch.io/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_marcioeric)
 
 </div>
