@@ -31,8 +31,6 @@ A little about me:
 
 <br />
 
-![marcioeric's github stats](https://github-readme-stats.vercel.app/api?username=marcioeric&show_icons=true&count_private=true)
-
 [linkedin]: https://www.linkedin.com/in/marcioeric/
 [itchio]: https://marcioeric.itch.io/
 [twitter]: https://twitter.com/_marcioeric
