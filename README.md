@@ -1,10 +1,20 @@
 <h1 align="center"> 
-	Hi there, I´m Eric 👋
+	✅ Welcome to my GitHub 🚀
 </h1>
+
+### Hi there, I´m Eric 👋
+
+A little about me:
+
+- 🇧🇷  Ceará, **Brazil**.
+- 🔭  I’m currently working with **Micro Services** and **DevOps**.
+- 🌱  I’m currently learning everything related to **low-level programming**, **automation** and **electrical engineering**.
+- 📚  Self-taught
 
 #### Connect with me:
 
-[<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcioeric/)](https://www.linkedin.com/in/marcioeric/)
+
 [<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itchio]
 [<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
