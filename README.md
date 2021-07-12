@@ -6,18 +6,14 @@
 
 A little about me:
 
-- 🇧🇷  Ceará, **Brazil**.
-- 🔭  I’m currently working with **Micro Services** and **DevOps**.
-- 🌱  I’m currently learning everything related to **low-level programming**, **automation** and **electrical engineering**.
-- 📚  Self-taught
+- 🇧🇷 Ceará, **Brazil**.
+- 🔭 I’m currently working with **Micro Services** and **DevOps**.
+- 🌱 I’m currently learning everything related to **low-level programming**, **automation** and **electrical engineering**.
+- 📚 Self-taught
 
 #### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcioeric/)](https://www.linkedin.com/in/marcioeric/)
-
-[<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itchio]
-[<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcioeric/) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ericnicolau) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://marcioeric.itch.io/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_marcioeric)
 
 #### Languages, Skills and Tools:
 [<img align="center" alt="chsharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][linkedin]
