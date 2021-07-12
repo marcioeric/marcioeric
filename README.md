@@ -1,4 +1,7 @@
-## Hi there, I´m Eric 👋
+<h1 align="center"> 
+	Hi there, I´m Eric 👋
+</h1>
+
 #### Connect with me:
 
 [<img align="center" alt="marcioeric" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
