@@ -2,6 +2,12 @@
 	✅ Welcome to my GitHub 🚀
 </h1>
 
+<div align="center"> 
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcioeric/) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ericnicolau) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://marcioeric.itch.io/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_marcioeric)
+
+</div>
+
 ### Hi there, I´m Eric 👋
 
 A little about me:
@@ -10,10 +16,6 @@ A little about me:
 - 🔭 I’m currently working with **Micro Services** and **DevOps**.
 - 🌱 I’m currently learning everything related to **low-level programming**, **automation** and **electrical engineering**.
 - 📚 Self-taught
-
-#### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcioeric/) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ericnicolau) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://marcioeric.itch.io/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_marcioeric)
 
 #### Languages, Skills and Tools:
 [<img align="center" alt="chsharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][linkedin]
