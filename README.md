@@ -15,6 +15,8 @@ A little about me:
 - 🌱 I’m currently learning everything related to **low-level programming**, **automation** and **electrical engineering**.
 - 📚 Self-taught
 
+<!--
+
 #### Languages, Skills and Tools:
 [<img align="center" alt="chsharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][linkedin]
 [<img align="center" alt="cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][linkedin]
@@ -28,7 +30,7 @@ A little about me:
 [<img align="center" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][linkedin]
 [<img align="center" alt="microsoftsqlserver" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" />][linkedin]
 [<img align="center" alt="postgresql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][linkedin]
-
+-->
 <br />
 
 [linkedin]: https://www.linkedin.com/in/marcioeric/
