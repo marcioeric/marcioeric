@@ -23,6 +23,7 @@ A little about me:
 <hr/>
 	
 [<img width="190em" src="https://images.credly.com/size/340x340/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming_in_C_23-01.png" />][mscert]
+[<img width="190em" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][awscert]
 
 	
 </div>
@@ -49,6 +50,7 @@ A little about me:
 [twitter]: https://twitter.com/_marcioeric
 [twitch]: https://www.twitch.tv/ericnicolau
 [mscert]: https://www.credly.com/badges/8aa698f2-54c1-4ba9-9384-8366635341c6/linked_in_profile
+[awscert]: https://www.credly.com/badges/e570fdb3-27c2-4479-9a78-ed9bf979f32f/linked_in_profile
 
 <!--
 **marcioeric/marcioeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
